@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, Soy Saul</h1>
+<h1 align="center">Hola 👋, Soy Saúl</h1>
 <h3 align="center">Actualmente estudiando 2ºDAM. Apasionado por la tecnología y por el desarrollo de software.</h3>
 
 
