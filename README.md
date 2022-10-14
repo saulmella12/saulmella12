@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Soy Saúl</h1>
-<h3 align="center">Actualmente estudiando 2ºDAM. Apasionado por la tecnología y por el desarrollo de software.</h3>
+<h3 align="center">Técnico superior en Sistemas Microinformaticos y Redes. Apasionado por la tecnología y por el desarrollo de software.</h3>
 
 
 <h3 align="left">Tecnologias y Herramientas que utilizo:</h3>
